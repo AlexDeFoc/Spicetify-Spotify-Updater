@@ -3,7 +3,7 @@ This is a simple batch file that updates your spicetify spotify app, so you don'
 
 ## Installation:
 
-1. **Download** the ZIP file and extract it to your desired location.
+1. **Download** the ZIP file from releases "App Files" and extract it to your desired location.
 
 ## What it does:
 
