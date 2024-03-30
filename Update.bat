@@ -2,6 +2,8 @@ TASKKILL /F /IM spotify.exe"
 
 spicetify update -n
 
-spicetify backup apply -n
+spicetify restore -n
 
-"%UserProfile%\AppData\Roaming\Spotify\Spotify.exe"
+# spicetify backup apply -n
+
+start /d "%UserProfile%\AppData\Roaming\Spotify" Spotify.exe
