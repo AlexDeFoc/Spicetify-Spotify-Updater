@@ -3,7 +3,7 @@ This is a simple batch file that updates your spicetify spotify app, so you don'
 
 ## Installation:
 
-1. **Download** the ZIP file from releases "App Files" and extract it to your desired location.
+1. **Download** the BAT/ZIP file from releases and open/extract it to your desired location.
 
 ## What it does:
 
@@ -11,6 +11,7 @@ This is a simple batch file that updates your spicetify spotify app, so you don'
 2. Updates the app
 3. Applies backup, so you have your plugins and style back.
 4. Opens, spotify automatically for you.
+5. Exits command prompt (instantly after start of bat file if only there is no available update)
 
 ## Automation:
 
